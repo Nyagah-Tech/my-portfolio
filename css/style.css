@@ -1,9 +1,51 @@
-img {
-    background-color: black;
-    width: 350px;
-}
 body {
-    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-Minimalist-Background-Image.jpg");
+    background-color: beige;
     background-size: cover;
     background-repeat: no-repeat;
-    }
+    font-family: sans-serif;
+}
+.nav {
+    float: right;
+    background-color: black;
+    color: white;
+    padding: 0px;
+    border: 300px;
+    width: 600px;
+
+}
+ul {
+    list-style-type: none;
+    padding: ;0px
+    margin: 0;
+}
+.nav a:hover {
+        background-color: #555;
+        color: white;
+        padding: 10px 24px;
+        border: 200px
+}
+.nav a {
+    border: 100px;
+}
+li {
+    display: inline;
+    border: 0px;
+    padding: 10px;
+}
+li a:hover {
+    background-color: #111;
+    padding: 0
+
+}
+li a{
+    display: inline;
+color: white;
+text-align: center;
+padding: 0;
+}
+.mypic {
+     float: right;
+align-content: center;
+}
+
+url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-Minimalist-Background-Image.jpg");
