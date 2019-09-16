@@ -6,4 +6,24 @@ body {
     background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-Minimalist-Background-Image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    }
+}
+.nav {
+    float: right;
+    background-color: skyblue;
+    color: black;
+    padding: 10px;
+    border: 50px;
+}
+.nav a:hover {
+        background-color: #555;
+        color: white;
+        padding: 8px 16px;
+}
+.nav a {
+    border: 50px;
+}
+ul {
+    list-style-type: none;
+    
+}
+
